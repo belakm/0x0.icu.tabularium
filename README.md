@@ -1,6 +1,6 @@
-# 0x0.icu.via
+# 0x0.icu.tabularium
 
-Reverse proxy setup.
+Postgres + pgadmin4 setup
 
 ## Environment
 
